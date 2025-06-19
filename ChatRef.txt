@@ -4,3 +4,6 @@ https://chatgpt.com/share/6853f1e9-f03c-800b-b5b3-204bca833850
 
 What is servlet and what does it has inside conversation link
 https://chatgpt.com/share/6853f235-b5e8-800b-afe2-35a5817197d9
+
+Documentation on Calculator app based addition implementation guide
+https://chatgpt.com/share/6853f94f-4984-800b-8099-56604b601ce2
