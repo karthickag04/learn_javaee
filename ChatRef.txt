@@ -10,3 +10,7 @@ https://chatgpt.com/share/6853f94f-4984-800b-8099-56604b601ce2
 
 Eclipse EE and Apache Tomcat implementation  guide 
 https://chatgpt.com/share/6853f9af-7ef8-800b-9845-8bcd5c62a0e9
+
+
+Conversation on College Management System about project folder structure under Eclipse - Dynamic Web Project 
+https://chatgpt.com/share/685a9031-dce4-800b-a1ab-259b357362eb
