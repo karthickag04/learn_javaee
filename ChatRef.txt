@@ -14,3 +14,6 @@ https://chatgpt.com/share/6853f9af-7ef8-800b-9845-8bcd5c62a0e9
 
 Conversation on College Management System about project folder structure under Eclipse - Dynamic Web Project 
 https://chatgpt.com/share/685a9031-dce4-800b-a1ab-259b357362eb
+
+implementation guide on registration and login under jsp - using Eclipse - Dynamic Web Project 
+https://chatgpt.com/share/685a90a7-658c-800b-b44b-7d02d1d149e7
