@@ -1,3 +1,5 @@
+UserAuthApp login based diff. Dashboard display with the help of role implementation chat ref
+https://chatgpt.com/share/686664d9-6208-800b-b4db-fc9f16b1c17b
 
 Calculator based addition on addServlet implementation using eclipse ee
 https://chatgpt.com/share/6853f1e9-f03c-800b-b5b3-204bca833850
