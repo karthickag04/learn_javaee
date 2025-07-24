@@ -19,3 +19,6 @@ https://chatgpt.com/share/685a9031-dce4-800b-a1ab-259b357362eb
 
 implementation guide on registration and login under jsp - using Eclipse - Dynamic Web Project 
 https://chatgpt.com/share/685a90a7-658c-800b-b44b-7d02d1d149e7
+
+Jsp with Scriptlet and ExpressionTag conversation
+https://chatgpt.com/share/68821fb3-4384-800b-8b68-4d0cb421bdb7
